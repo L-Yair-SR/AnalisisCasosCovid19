@@ -6,4 +6,4 @@ El proyecto realiza el analisis de datos relacionados a casos covid registrados 
 
 Este es el modelo ER realizado para el alamacenamiento de la informacion.
 
-![Base de Datos][Img/Covid19premier.png]
+![BasedeDatos](Img/Covid19premier.png)
