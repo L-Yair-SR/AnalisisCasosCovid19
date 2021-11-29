@@ -5,4 +5,5 @@ El proyecto realiza el analisis de datos relacionados a casos covid registrados 
 ## Base de datos
 
 Este es el modelo ER realizado para el alamacenamiento de la informacion.
-![Base de Datos][https://raw.githubusercontent.com/L-Yair-SR/AnalisisCasosCovid19/main/Img/Covid19premier.png]
+
+![Base de Datos][Img/Covid19premier.png]
