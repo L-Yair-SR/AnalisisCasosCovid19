@@ -17,6 +17,10 @@ La vista que ocupamos contiene los atributos de: Edad, Sexo, EntidadResidencia, 
 
 ![DistribuciondelosClusters](Img/4clusters.png)
 
-En la siguiente grafica podemos ver los datos contra la edad y se aprecia que todavia se cuenta con mucha disperción en los datos.
+En la siguiente grafica podemos ver los datos*(en el eje horizontal)* contra la edad*(en el eje vertical)* y se aprecia que todavia se cuenta con mucha disperción en los datos ya que los clusters de la edad no estan tan distantes entre ellos.
 
 ![GraficaEdadDatos](Img/GraficaEdadDatos.png)
+
+Sin embargo si ponemos los datos*(en el eje horizontal)* contra la EntidadResidencia*(en el eje vertical)* podemos notar una mejor separacion de los datos ya que los clusters si cuentan con una mayor separacion entre ellos.
+
+![GraficoEResidenciaDatos](Img/ENDatos.png)
