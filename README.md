@@ -17,10 +17,16 @@ La vista que ocupamos contiene los atributos de: Edad, Sexo, EntidadResidencia, 
 
 ![DistribuciondelosClusters](Img/4clusters.png)
 
-En la siguiente grafica podemos ver los datos*(en el eje horizontal)* contra la edad*(en el eje vertical)* y se aprecia que todavia se cuenta con mucha disperción en los datos ya que los clusters de la edad no estan tan distantes entre ellos.
+En la siguiente grafica podemos ver los datos *(en el eje horizontal)* contra la edad *(en el eje vertical)* y se aprecia que todavia se cuenta con mucha disperción en los datos ya que los clusters de la edad no estan tan distantes entre ellos.
 
 ![GraficaEdadDatos](Img/GraficaEdadDatos.png)
 
-Sin embargo si ponemos los datos*(en el eje horizontal)* contra la EntidadResidencia*(en el eje vertical)* podemos notar una mejor separacion de los datos ya que los clusters si cuentan con una mayor separacion entre ellos.
+Sin embargo si ponemos los datos *(en el eje horizontal)* contra la EntidadResidencia *(en el eje vertical)* podemos notar una mejor separacion de los datos ya que los clusters si cuentan con una mayor separacion entre ellos, se puede observar que dos cluster estan entre los estados 1 y 17 mientras que otros dos clusters estan entre los estados 18 a 32.
 
 ![GraficoEResidenciaDatos](Img/ENDatos.png)
+
+Tomando los datos contra el sexo podemos como dos clusters se van hacia el sexo masculino y dos clusters se van hacia el sexo femenino. Con todo esto ya podemos ir agrupando nuestros datos para poder seleccionarlos de la base de datos y poder conocer mas informacion sobre los mismos.
+
+![GraficoSexoDatos](Img/SexoDatos.png)
+![QuerydeSeleccion](Img/Query1.png)
+![QuerydeSeleccion](Img/Query2.png)
